@@ -77,3 +77,18 @@ Yuvraj 🚀
 ---
 
 ⭐ If you like this project, give it a star!
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home](home.png)
+
+---
+
+### 📚 Get Books
+![Books](books.png)
+
+---
+
+### 🤖 Generate AI Summary
+![AI](ai.png)
